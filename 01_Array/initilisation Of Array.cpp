@@ -9,6 +9,6 @@ int main ()
     
     int crr [5] = {1,2,3};
 
-    int drr [2] = {1,2,3,4,5}; = // IS CASE ME ERROR MILEGA
+    int drr [2] = {1,2,3,4,5}; // IS CASE ME ERROR MILEGA
      
 }  
